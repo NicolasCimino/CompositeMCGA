@@ -1,0 +1,11 @@
+C:\Users\nico\Desktop\LPPA\testComposite\bin\Debug\testComposite.exe.config
+C:\Users\nico\Desktop\LPPA\testComposite\bin\Debug\testComposite.exe
+C:\Users\nico\Desktop\LPPA\testComposite\bin\Debug\testComposite.pdb
+C:\Users\nico\Desktop\LPPA\testComposite\obj\Debug\testComposite.csproj.AssemblyReference.cache
+C:\Users\nico\Desktop\LPPA\testComposite\obj\Debug\testComposite.csproj.SuggestedBindingRedirects.cache
+C:\Users\nico\Desktop\LPPA\testComposite\obj\Debug\testComposite.Form1.resources
+C:\Users\nico\Desktop\LPPA\testComposite\obj\Debug\testComposite.Properties.Resources.resources
+C:\Users\nico\Desktop\LPPA\testComposite\obj\Debug\testComposite.csproj.GenerateResource.cache
+C:\Users\nico\Desktop\LPPA\testComposite\obj\Debug\testComposite.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\LPPA\testComposite\obj\Debug\testComposite.exe
+C:\Users\nico\Desktop\LPPA\testComposite\obj\Debug\testComposite.pdb
